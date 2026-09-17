@@ -23,3 +23,12 @@ Bref, ce sont trois outils différents mais complémentaires, et j'ai hâte de v
 
 ![Capture d'écran de VSCode](images/VSCode_Series_00.png)
 
+## Ce que j'ai appris
+
+Grâce à cet exercice, j'ai appris à utiliser Git et GitHub pour sauvegarder et partager mon code. 
+J'ai appris à écrire un fichier README en Markdown, avec des titres et du texte. 
+J'ai aussi appris à ajouter une image dans mon README en la plaçant dans un dossier "images", 
+et en écrivant le bon chemin vers cette image pour qu'elle s'affiche correctement. 
+Pour envoyer mes changements sur GitHub, j'ai utilisé GitHub Desktop : j'ai fait un "commit" (pour valider mes changements) puis un "push" (pour les envoyer en ligne).
+
+Ce travail m'a pris environ 2 heures à réaliser.

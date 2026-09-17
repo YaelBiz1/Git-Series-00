@@ -12,3 +12,11 @@ notamment sur la gestion des branches et la collaboration avec d'autres personne
 
 ## Une jolie image
 ![Une belle photo] (https://images.unsplash.com/photo-1788929895175-3064d55d3d4c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Mes motivations
+
+Je me lance dans Python, R et Git avec la curiosité d'une débutante prête à tout casser (et à tout réparer ensuite).
+Python me fait rêver de projets d'automatisation qui me feraient gagner un temps précieux.
+R m'attire pour son côté analyse de données, presque comme résoudre une enquête avec des chiffres.
+Git, lui, c'est mon nouveau super-pouvoir pour ne plus jamais perdre mon travail ni écraser celui des autres.
+Bref, ce sont trois outils différents mais complémentaires, et j'ai hâte de voir jusqu'où ils vont me mener !

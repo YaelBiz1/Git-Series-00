@@ -20,3 +20,6 @@ Python me fait rêver de projets d'automatisation qui me feraient gagner un temp
 R m'attire pour son côté analyse de données, presque comme résoudre une enquête avec des chiffres.
 Git, lui, c'est mon nouveau super-pouvoir pour ne plus jamais perdre mon travail ni écraser celui des autres.
 Bref, ce sont trois outils différents mais complémentaires, et j'ai hâte de voir jusqu'où ils vont me mener !
+
+![Capture d'écran de VSCode](images/VSCode_Series_00.png)
+
